@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="lagom-scala-sbt_6805,testlagom-stream-impl,testlagom-stream-api,testlagom,root,testlagom-impl,testlagom-api,userImpl,userApi" />
+    <profile name="sbt 2" modules="t1t-test">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+    </profile>
+  </component>
+</project>

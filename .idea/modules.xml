@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/t1t-test.iml" filepath="$PROJECT_DIR$/.idea/modules/t1t-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlagom-api.iml" filepath="$PROJECT_DIR$/.idea/modules/testlagom-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlagom-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/testlagom-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlagom-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/testlagom-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testlagom-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/testlagom-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/user-impl/user-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userApi.iml" filepath="$PROJECT_DIR$/.idea/modules/userApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userApi-build.iml" filepath="$PROJECT_DIR$/.idea/modules/userApi-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userImpl.iml" filepath="$PROJECT_DIR$/.idea/modules/userImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userImpl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/userImpl-build.iml" />
+    </modules>
+  </component>
+</project>
